@@ -1,5 +1,8 @@
 body{
-  background-image: url('hatter.png');
+  background-image: url(hatter.png);
+  background-repeat: no-repeat;
+	background-size: cover;
+	font-family: cursive;
   padding: 15px;
 }
 
